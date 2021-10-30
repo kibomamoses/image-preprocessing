@@ -1,0 +1,3 @@
+C:/Users/kibom/Desktop/MR-Image-Preprocessing-Framework-master/out/build/x64-Debug/CMakeFiles/Homework1.dir
+C:/Users/kibom/Desktop/MR-Image-Preprocessing-Framework-master/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/kibom/Desktop/MR-Image-Preprocessing-Framework-master/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
